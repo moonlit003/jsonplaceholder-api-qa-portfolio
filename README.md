@@ -1,6 +1,6 @@
 # QA Portfolio: Тестирование REST API (JSONPlaceholder)
 
-Пет-проект по тестированию REST API публичного сервиса [JSONPlaceholder](https://jsonplaceholder.typicode.com/). Коллекция запросов и автопроверок собрана в **Bruno**, экспортирована в формат **Postman Collection v2.1** и дополнена тестовой документацией.
+Проект по тестированию REST API публичного сервиса [JSONPlaceholder](https://jsonplaceholder.typicode.com/). Коллекция запросов и автопроверок собрана в **Bruno**, экспортирована в формат **JSON** и дополнена тестовой документацией.
 
 ## Структура проекта
 
