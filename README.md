@@ -36,3 +36,7 @@ jsonplaceholder-api-qa-portfolio/
 **В Bruno:**
 1. Нажмите **Import Collection** $\rightarrow$ **Postman Collection**.
 2. Выберите файл `collection/jsonplaceholder-api-qa-portfolio.json` и запустите прогон через **Run**.
+
+## Результаты прогона коллекции (Runner)
+
+![Результаты прогона коллекции в Bruno](screenshots/runner-results.png)
